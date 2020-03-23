@@ -5,7 +5,7 @@ Esta sessão foi construída com base nas principais diretrizes de acessibilidad
   * **Epub 3 Accessibility Guidelines** (https://idpf.github.io/a11y-guidelines/): Complemento ao documento sobre acessibilidade em ePub com foco no ePub3.
   * **EPUB Accessibility Techniques 1.0** (http://www.idpf.org/epub/a11y/techniques/techniques.html): Documento que aponta as técnicas de acessibilidade para uso em um documento ePub.
   
-  Acessibilidade de um documento ePub deve ir de encontro com os níveis de conformidade das WCAG 2.0. Ela deve estar em conformidade com o nível A de conformidade, mas o recomendado é atingir o nível AA.
+  Acessibilidade de um documento ePub deve ir ao encontro com os níveis de conformidade das WCAG 2.0. Ela deve estar em conformidade com o nível A de conformidade, mas o recomendado é atingir o nível AA.
   
   Os níveis de conformidade do WCAG 2.0 são definidos com base no impacto que as recomendações tem no acesso de pessoas com deficiência e seu grau de dificuldade de implementação. Cada diretriz de acessibilidade tem em sua descrição o nível de conformidade, sendo o nível A o o mais baixo e o nível AAA o mais elevado.
   
